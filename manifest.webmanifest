@@ -1,0 +1,1 @@
+{"name":"WettTracker Privat","short_name":"WettTracker","description":"Privates Offline-Dashboard für Wettscheine","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#0b1220","theme_color":"#101b2d","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
